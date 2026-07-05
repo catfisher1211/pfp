@@ -1,0 +1,4 @@
+data/
+report.html
+__pycache__/
+*.pyc
